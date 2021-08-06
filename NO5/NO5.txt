@@ -1,0 +1,2 @@
+Clousure merupakan kombinasi antara function dan lingkungan leksikal
+(lexical scope) didalam function
